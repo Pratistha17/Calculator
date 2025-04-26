@@ -1,2 +1,1 @@
-# Calculator
-Calculator
+This project is a simple, dark-themed calculator built with HTML, CSS, and JavaScript. It features a minimalist layout with a clear display at the top and a grid of soft-rounded buttons for numbers, operations, and basic functions like clear (C) and delete (←). The design uses a dark background with subtle shadows to give a modern, clean look. The calculator performs basic arithmetic operations and updates the display dynamically as users interact with the buttons.
